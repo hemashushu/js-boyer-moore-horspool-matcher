@@ -1,0 +1,21 @@
+{
+    "name": "js-boyer-moore-horspool-matcher",
+    "version": "1.0.1",
+    "description": "",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "node ./test/test-all.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/hemashushu/js-boyer-moore-horspool-matcher.git"
+    },
+    "author": "Hemashushu <hippospark@gmail.com>",
+    "keywords": ["boyer-moore-horspool", "boyer-moore", "horspool"],
+    "license": "MPL-2.0",
+    "bugs": {
+        "url": "https://github.com/hemashushu/js-boyer-moore-horspool-matcher/issues"
+    },
+    "homepage": "https://github.com/hemashushu/js-boyer-moore-horspool-matcher#readme"
+}
